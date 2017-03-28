@@ -23,7 +23,7 @@ To train a model with chinese dataset:
 python train.py --data_path=zh_data
 ```
 
-# Result for PTB dataset
+**Result for PTB dataset**
 
 There are 3 supported model configurations:
 
